@@ -1,2 +1,2 @@
 # UniqueGenerator
-API: http://localhost:8080/api/generate/unique
+GET API: http://localhost:8080/api/generate/unique
